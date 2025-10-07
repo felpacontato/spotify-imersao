@@ -62,4 +62,4 @@ Durante o desenvolvimento, foram praticados:
 
 Desenvolvido por **Felipe Prates (Felpa)** como parte do portfólio pessoal.  
 📫 [felpacontato@gmail.com](mailto:felpacontato@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/felpacontato)
+🌐 [LinkedIn](https://www.linkedin.com/in/felipe-prates-070985376/)
