@@ -8,7 +8,10 @@ Desenvolvido durante uma imersão prática para aprimorar habilidades em **HTML,
 ## 🖥️ Demonstração
 
 🔗 **Acesse o projeto:**  
-[https://felpacontin.github.io/spotify-imersao/](https://felpacontin.github.io/spotify-imersao/)
+[https://felpacontato.github.io/spotify-imersao/](https://felpacontato.github.io/spotify-imersao/)
+
+💻 **Repositório:**  
+[https://github.com/felpacontato/spotify-imersao](https://github.com/felpacontato/spotify-imersao)
 
 ---
 
@@ -59,4 +62,4 @@ Durante o desenvolvimento, foram praticados:
 
 Desenvolvido por **Felipe Prates (Felpa)** como parte do portfólio pessoal.  
 📫 [felpacontato@gmail.com](mailto:felpacontato@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/felpacontin)
+🌐 [LinkedIn](https://www.linkedin.com/in/felpacontato)
